@@ -1,0 +1,12 @@
+pandas
+qrcode
+cryptography
+python-dotenv
+Pillow
+pyzbar
+opencv-python
+streamlit
+streamlit-webrtc
+aiortc
+av
+
